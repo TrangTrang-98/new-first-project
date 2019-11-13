@@ -1,0 +1,8 @@
+C:\Users\MyPC\Desktop\CleanArchitecture\Applicationcore\bin\Debug\netstandard2.0\Applicationcore.deps.json
+C:\Users\MyPC\Desktop\CleanArchitecture\Applicationcore\bin\Debug\netstandard2.0\Applicationcore.dll
+C:\Users\MyPC\Desktop\CleanArchitecture\Applicationcore\bin\Debug\netstandard2.0\Applicationcore.pdb
+C:\Users\MyPC\Desktop\CleanArchitecture\Applicationcore\obj\Debug\netstandard2.0\Applicationcore.csprojAssemblyReference.cache
+C:\Users\MyPC\Desktop\CleanArchitecture\Applicationcore\obj\Debug\netstandard2.0\Applicationcore.AssemblyInfoInputs.cache
+C:\Users\MyPC\Desktop\CleanArchitecture\Applicationcore\obj\Debug\netstandard2.0\Applicationcore.AssemblyInfo.cs
+C:\Users\MyPC\Desktop\CleanArchitecture\Applicationcore\obj\Debug\netstandard2.0\Applicationcore.dll
+C:\Users\MyPC\Desktop\CleanArchitecture\Applicationcore\obj\Debug\netstandard2.0\Applicationcore.pdb
